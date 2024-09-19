@@ -4,11 +4,11 @@
   "description": "First",
   "main": "Hello.js",
   "dependencies": {
+    "@dc333/webpack-plugins": "^1.0.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "doug chang",
   "license": "ISC"
 }
